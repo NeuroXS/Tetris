@@ -2,4 +2,4 @@
 
 ![Tetris Gameplay](Gameplay-sample.gif)
 
-Using 2 tiles only
+Done by SFML. Contains 2 Tiles only.
